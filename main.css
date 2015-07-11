@@ -1,0 +1,34 @@
+#google-logo {
+    position: relative;
+    margin: 0 auto;
+}
+
+#me {
+    border-radius: 50%;
+}
+
+.center {
+    position: fixed;
+    top: 200px;
+    bottom: 100px;
+    right: 400px;
+}
+
+form {
+    position: relative;
+    margin: 0 auto;
+    right: 50px;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    color: black;
+    overflow: hidden;
+    float: right;
+    padding: 5px;
+}
